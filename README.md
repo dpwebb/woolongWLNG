@@ -3,51 +3,37 @@ Welcome to the intergalactic world of Woolongs.
 
 The Woolong (trade symbol: WLNG, icon: W with only 1-line traversing horizontally just above center) is the standard unit of currency in the Solar System. Woolong (WLNG) can be traded in physical paper notes, metallic minted coins, digitally transferred electronically through user interface (computer), or with special devices. 
 
-Woolong references in Anime:
-•	Cowboy Bebop
-•	Space Dandy
-•	Carol & Tuesday
+Date Sunday, October 30, 2021
+Woolong (WLNG), a Bep-20 contract token, has increased value by 190.20% in the past seven days.
 
-Cowboy Bebop
-In 1998, Japanese animation studio Sunrise launched a new animated science-fiction television series called Cowboy Bebop. Directed by Shinichirō Watanabe and written by Keiko Nobumoto, Cowboy Bebop first premiered to Western audiences in 2001, capturing the attention of millions of fans around the world. Cowboy Bebop’s eclectic blend of neo-noir cyberpunk aesthetic, incandescent jazz, and deeply nuanced storytelling rapidly enshrined the series as a legendary cult classic. As a genre-breaking science fiction series, Cowboy Bebop presents viewers with a vast range of futuristic concepts, focusing on a lawless, socially-stratified solar system in which governments offer bounty contracts to prevent crime. These contracts, and everything else in the Cowboy Bebop Universe, are paid in “Woolong” — one of the earliest depictions of digital currency in pop culture.
+Woolong, a private, secure, and fast cryptocurrency designed for exchanges between galaxies and everyday transactions, was brought about by Cowboy Bebop, an animated science-fiction series.  On the 3rd of April, 1998, Sunrise, a Japanese studio for animation, released Cowboy Bebop. Keiko Nobumoto was the writer of Cowboy Bebop, while Shinichirō Watanabe was the director.
 
-Space Dandy
-Although Cowboy Bebop and Space Dandy are very different in tone and setting, there is abundant evidence that Space Dandy takes place in the same universe as Cowboy Bebop, although likely at a much later point in time. Both series use the Woolong as their currency. 
+Cowboy Bebop is now an American Science Fiction which is set to be streamed as a television series on Netflix on the 19th of November, 2021. This series was developed by André Nemec, written by Christopher Yost, starring stars like John Cho, Elena Satine, Mustafa Shakir, Alex Hassell, and Daniela Pineda.
 
-Carole & Tuesday
-Carole & Tuesday is pretty different from the Cowboy Bebop and Space Dandy series. For one thing, it's barely science fiction. It takes place on Mars, and AI is commonplace, but the story itself could take place in almost any time period and location. Instead of being about a small crew of eccentric heroes travelling through space and struggling to make a living, it's about two young girls attempting to hit it big as musicians. Despite this change in basic plot structure, there is abundant evidence that Carole & Tuesday also takes place in Cowboy Bebop's universe. Woolongs are also the currency here (although their value seems to be different)
+In this series in 1998, we could see the Woolong used for different transactions and other contracts for bounties among galaxies. The concept of cryptocurrency was first introduced in this series long before Bitcoin was launched in 2009, which is almost ten years difference.
 
-What is a Woolong (WLNG)?
-Woolong is a BEP-20 cryptocurrency designed to emulate the function of the digital currency of the fictional Cowboy Bebop, Space Dandy and Carol & Tuesday anime universe, bringing instantaneous, private transactions to everyday real life. Woolong (WLNG) brings the concept of these presented in the forementioned series into real life. Woolong (WLNG) are designed for daily transactions, intergalactic bounty contracts, and everything in between. Woolong (WLNG) is creating the solar system’s first universal, decentralized, and secure payment ecosystem. 
+In addition, both of the following animated series use Woolong as their galactic currency.
 
-Physical or Digital
-Woolong can be traded in physical paper notes or digitally transferred electronically through user interface (computer) or with special devices. You can use Woolong to pay for your daily lunch of bell peppers and beef (minus the beef), send payments to other Woolong (WLNG) users, or in Mars-orbit space casinos — when they’re eventually built
+Space Dandy: Although Cowboy Bebop and Space Dandy are very different in tone and setting, there is abundant evidence that Space Dandy takes place in the same universe as Cowboy Bebop, although likely at a much later point in time.
 
-Instantaneous
-Value based international bank transfers can take days to execute. Woolong can be transferred near-instantaneously, ensuring that your payments (or bounty contracts) are paid out immediately
+Carole & Tuesday: Carol & Tuesday is pretty different from the Cowboy Bebop and Space Dandy series. For one thing, it's barely science fiction. It takes place on Mars, and AI is commonplace, but the story itself could take place in almost any time period and location. Instead of being about a small crew of eccentric heroes traveling through space and struggling to make a living, it's about two young girls attempting to hit it big as musicians. Despite this change in basic plot structure, there is abundant evidence that Carole & Tuesday also take place in Cowboy Bebop's universe.  Woolongs are also the currency here (although their value seems to be different)
+Woolong (WLNG) Token is referred to as a fan token however its function is very similar to a cryptocurrency coin, with over 1,000,000 loyal fans of the legendary series, which is one of the reasons why Woolong is choosing Binance Smart Chain (BSC) as the platform for its algorithm. Another reason is the platform's massive success and the opportunities available for Fan Tokens. Furthermore, this collaboration between this fan token and Binance Smart Chain helps promote the security of these tokens.
+Woolong Token was made by people who have a passion for anime with creative flairs like Cowboy Bebop, Space Dandy, and Carol & Tuesday, which all have a futuristic concept, focusing on an adventure whose method of currency was based on the digital currency named Woolong. Although this is not the first-time fans of this series have tried to recreate this digital currency, other attempts failed due to unforeseen circumstances; it was formed by individuals with the same mind and passion for making sure to produce this Token this time successfully.
 
-Peer-to-Peer
-Woolong (WLNG) is completely decentralized — there is no central authority governing the transfer of Woolong (WLNG). The Woolong (WLNG) network Binance Smart Contracts is maintained by an international network of millions of users.
+The producers of this WLNG Token produced a total of 10,000,000 Tokens with 8 decimal (0.00000000) places and the smallest of which is called “WOO” (1 WOO = 0.00000001 Woolong.) This proportioning will facilitate the galactic distribution in line with the trillions of WOO that are dispersed in each of these three animated series.
+Ideally, at least one Woolong WLNG (1.00000000) will be received by everyone who loves this iconic series. To get a Woolong, all that is needed is to register an account on the Woolong site (Woolongs.com), which is free, and provide an account number for your BSC Mainnet Account; once that is done, a free Woolong will be sent to your account, and these can be traded on PancakeSwap.
 
-Secure
-The Woolong (WLNG) can’t be hacked. All transactions are logged on the BscScan blockchain, ensuring that third parties don’t need to be trusted to keep your Woolong (WLNG) safe. Woolong (WLNG) allows users to be their own bank and store their currency on their own terms — ideal for space cowboys.
+Three million pieces of the WLNG Token, 15% of the total WLNG produced, would be made available before the official launch for a pre-sale event (ICO/AIRDROP). The producers would give  WLNG 2,000,000 (20% of the 10,000,000 Tokens) to the Advisors of the various Teams to help this coin align with the Cryptocurrency community, and 65% would be available for sale to a general crypto exchange user.
 
-Why Woolongs?
+The producers made this Token to let fans who are avid lovers of the series Cowboy Bebop, Space Dandy, and Carol & Tuesday and who love the concept of the digital currency, get to have a real-life experience of it and make sure everything is done securely.
 
-Bitcoin — the first widely adopted crypto currency — was created with the vision of establishing a decentralized digital currency without the need for a centralized bank or administrator. While Bitcoin has achieved the original goals outlined in Satoshi Nakamoto’s white paper, the rapidly-evolving cryptocurrency ecosystem has established a system in which Bitcoin and other major cryptocurrencies are no longer truly decoupled from fiat currency.
+Stay tuned for the Woolong (WLNG) Whitepaper and more information regarding Tokenomics, a future ICO, and Airdrop Marketing campaigns.
 
-Ever-increasing regulatory oversight and the development of advanced chain analysis techniques have rendered traditional blockchain networks such as Bitcoin transparent, allowing governments and regulatory authorities to collect information about cryptocurrency users through a wide range of methods.
+More information about the WLNG Token
+To know more about the management people, visit https://woolongs.com/?page_id=768 and their social media presence https://woolongs.com/?page_id=1430.
 
-Cryptocurrency is a means of storing and transferring value outside of state-issued fiat currency, and holds far more use cases than a simple extension of fiat, or as a speculative investment vehicle. Cryptocurrencies hold the potential to provide users with a truly democratic, anonymous, and fungible means of transferring value from between individuals regardless of distance. Woolong (WLNG) provides users with the ability to transfer value privately and quickly between individuals, across the planet, or from Ganymede to Callisto.
-
-Woolong (WLNG) provides cryptocurrency users with a means of storing and transferring value in a truly private manner, facilitating the execution of confidential transactions. Woolong (WLNG) is fast, efficient, and secure — ideal for day-to-day transactions or the remittance of intersolar bounties.
-
-The Woolong (WLNG), uses the Binance Smart Contract algorithm. Shinichirō Watanabe’s fictional Woolong is used within the Cowboy Bebop, Space Dandy, and Carol & Tuesday universe as a universal currency, used to purchase real estate, food, pets, and for the payment of intergalactic bounty contracts.
-
-Highly Secure
-Woolong (WLNG) is a decentralized cryptocurrency. In contrast with state-issued fiat currencies, Woolong (WLNG) is a secure digital currency maintained by a vast network of individual users. Woolong (WLNG) network participants confirm transactions and balances through a distributed consensus model and record them on the immutable BscScan blockchain.
-
-The conventional cryptocurrency ecosystem is stagnant — we must create new dreams and technologies by breaking traditional styles. The next generation of cryptocurrencies, which becomes a new currency itself, will be called… Woolong (WLNG)
+Why did they choose the Binance Smart Chain? Visit https://woolongs.com/?page_id=1349.
+-30-
 
 Please review Woolongs.com for some additional information and Woolong (WLNG) historical trading rates
 
