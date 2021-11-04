@@ -3,8 +3,8 @@ Welcome to the intergalactic world of Woolongs.
 
 The Woolong (trade symbol: WLNG, icon: W with only 1-line traversing horizontally just above center) is the standard unit of currency in the Solar System. Woolong (WLNG) can be traded in physical paper notes, metallic minted coins, digitally transferred electronically through user interface (computer), or with special devices. 
 
-Date Sunday, October 30, 2021
-Woolong (WLNG), a Bep-20 contract token, has increased value by 190.20% in the past seven days.
+Date Sunday, November 3, 2021 11:07:00 AST
+Woolong (WLNG), a Bep-20 contract token, has increased value by 404.98% in the past seven days.
 
 Woolong, a private, secure, and fast cryptocurrency designed for exchanges between galaxies and everyday transactions, was brought about by Cowboy Bebop, an animated science-fiction series.  On the 3rd of April, 1998, Sunrise, a Japanese studio for animation, released Cowboy Bebop. Keiko Nobumoto was the writer of Cowboy Bebop, while Shinichirō Watanabe was the director.
 
