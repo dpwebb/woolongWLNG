@@ -30,7 +30,7 @@ The producers made this Token to let fans who are avid lovers of the series Cowb
 Stay tuned for the Woolong (WLNG) Whitepaper and more information regarding Tokenomics, a future ICO, and Airdrop Marketing campaigns.
 
 More information about the WLNG Token
-To know more about the management people, visit https://woolongs.com/?page_id=768 and their social media presence https://woolongs.com/?page_id=1430.
+To know more about the management people, visit https://woolongs.com/Whitepaper_v2.0.pdf8 and their social media presence https://woolongs.com/?page_id=1430.
 
 Why did they choose the Binance Smart Chain? Visit https://woolongs.com/?page_id=1349.
 -30-
